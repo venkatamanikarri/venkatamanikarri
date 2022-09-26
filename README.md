@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manibabukv
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in data science and software engineering
+- 🌱 I’m currently learning data science and sofware engineering
+- 💞️ I’m looking to collaborate on data science and software engineering projects
 - 📫 How to reach me manibabukari@gmail.com
 
 <!---
