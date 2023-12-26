@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 -- Languages: Python, SQL, R, SAS, JavaScript, PySpark<br>
 -- Databases: MySQL, MS SQL Server, PostgreSQL<br>
 -- ML: Scikit-Learn, TensorFlow, PyTorch, NLTK<br>
--- Data Visualization: Tableau, Power BI, Qlik Sense, ggplot2, matplotlib<br>
+-- Data Visualization: Tableau, Power BI, Qlik Sense, ggplot2, matplotlib, D3.js<br>
 -- Gen AI: LLM Finetuning, Prompt Engineering <br>
 -- Cloud: AWS, GCP, Azure <br>
 -- Big Data: Spark, Hadoop, Hive, Kafka <br>
