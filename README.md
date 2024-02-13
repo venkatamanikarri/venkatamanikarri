@@ -12,11 +12,11 @@ manibabukv/manibabukv is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 **My Tech Stack:**
--- Languages: Python, SQL, R, SAS, JavaScript, PySpark<br>
--- Databases: MySQL, MS SQL Server, PostgreSQL<br>
--- ML: Scikit-Learn, TensorFlow, PyTorch, NLTK<br>
--- Data Visualization: Tableau, Power BI, Qlik Sense, ggplot2, matplotlib, D3.js<br>
--- Gen AI: LLM Finetuning, Prompt Engineering <br>
--- Cloud: AWS, GCP, Azure <br>
--- Big Data: Spark, Hadoop, Hive, Kafka <br>
--- Other: MS Excel, ArcGIS, SPSS, STATA, VS Code, GitHub <br>
+•	Programming & Databases: Python, R, SAS, PySpark, SQL, MySQL, PostgreSQL, MS SQL Server, REDCap
+•	ML Libraries: NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Keras, dplyr, caret, Spark ML/MLlib
+•	ML & Statistics: Regression, Classification, Clustering, PCA, Time Series, DL, NLP, LLMs, A/B Testing
+•	Data Visualization & BI: Tableau, Power BI, Matplotlib, ggplot2, Looker, Qlik, D3.js
+•	Big Data & Cloud: Hadoop (HDFS, MapReduce), Spark, Hive, HBase, AWS (S3, EC2, EMR, SageMaker)
+•	Miscellaneous: VS Code, RStudio, ETL, Jupyter Notebook, LangChain, Git, GitHub, MS Excel, MS Access, ArcGIS
+
+
