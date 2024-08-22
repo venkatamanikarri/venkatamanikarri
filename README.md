@@ -6,6 +6,7 @@
 - 📫 How to reach me venkatamanibabukarri@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/venkatamanibabu/
+**Tableau:** https://public.tableau.com/app/profile/venkata.mani.babu.karri/vizzes
 
 <!---
 manibabukv/manibabukv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
