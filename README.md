@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on data science and engineering projects
 - 📫 How to reach me venkatamanibabukarri@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/venkatamanibabu/
+**LinkedIn:** https://www.linkedin.com/in/venkatamanibabu/ /n
 **Tableau:** https://public.tableau.com/app/profile/venkata.mani.babu.karri/vizzes
 
 <!---
