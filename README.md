@@ -1,8 +1,8 @@
 **About me:**
 - 👋 Hi, I’m @manibabukv
-- 👀 I’m interested in data science and ml engineering
+- 👀 I’m interested in business intelligence, data science and machine learning
 - 🌱 I’m currently learning data science and ml engineering
-- 💞️ I’m looking to collaborate on data science and engineering projects
+- 💞️ I’m looking to collaborate on business intelligence, data science and machine learning projects
 - 📫 How to reach me venkatamanibabukarri@gmail.com
 
 - **LinkedIn:** https://www.linkedin.com/in/venkatamanibabu/
