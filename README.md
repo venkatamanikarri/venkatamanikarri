@@ -2,10 +2,9 @@
 - 👋 Hi, I’m @manibabukv
 - 👀 I’m interested in business intelligence, data science and machine learning
 - 🌱 I’m currently learning data science and ml engineering
-- 💞️ I’m looking to collaborate on business intelligence, data science and machine learning projects
-- 📫 How to reach me venkatamanibabukarri@gmail.com
+- 💞️ I’m looking to collaborate on software develoment, business intelligence, data science and machine learning projects
 
-- **LinkedIn:** https://www.linkedin.com/in/venkatamanibabu/
+
 - **Tableau:** https://public.tableau.com/app/profile/venkata.mani.babu.karri/vizzes
 
 <!---
