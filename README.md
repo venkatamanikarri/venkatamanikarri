@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on software develoment, business intelligence, data science and machine learning projects
 
 
-- **Tableau:** https://public.tableau.com/app/profile/venkata.mani.babu.karri/vizzes
+- **Tableau:** https://public.tableau.com/app/profile/venkata.mani.karri/vizzes
 
 <!---
 manibabukv/manibabukv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
