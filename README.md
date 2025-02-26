@@ -1,6 +1,6 @@
 **About me:**
 - 👋 Hi, I’m @manibabukv
-- 👀 I’m interested in business intelligence, data science and machine learning
+- 👀 I’m interested in business intelligence, data science and analytics
 - 🌱 I’m currently learning data science and ml engineering
 - 💞️ I’m looking to collaborate on software develoment, business intelligence, data science and machine learning projects
 
